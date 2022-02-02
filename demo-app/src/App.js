@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -15,11 +15,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Demo for eslint, prettier with eslint, husky and lint-staged
         </a>
       </header>
     </div>
   );
 }
-
+debugger;
 export default App;
