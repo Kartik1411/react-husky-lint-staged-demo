@@ -22,6 +22,6 @@ function App() {
       </header>
     </div>
   );
-  asd;
+  asda;
 }
 export default App;
