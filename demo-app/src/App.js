@@ -13,7 +13,9 @@ function App() {
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
-          rel="noopener noreferrer"
+          r
+          el="noopener noreferrer"
+          rel="noreferrer"
         >
           Demo for eslint, prettier with eslint, husky and lint-staged
         </a>
